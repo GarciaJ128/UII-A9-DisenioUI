@@ -10,7 +10,7 @@ class CloudFileManagerUI extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Cloud files",
+      title: "Libreria DenysTale",
       home: TeamFolderPage(),
     );
   }
