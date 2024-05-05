@@ -23,9 +23,10 @@ samples, guidance on mobile development, and a full API reference.
 - https://www.youtube.com/watch?v=Qg9N_FOhLzo
 
 ## Resultados
-![image](https://github.com/GarciaJ128/UII-A9-DisenioUI/assets/143743623/30a4315c-847d-4864-8f61-b971b3fb9c1e)
-![image](https://github.com/GarciaJ128/UII-A9-DisenioUI/assets/143743623/f12cdb4c-946a-400f-9c3c-d11c002c256b)
-![image](https://github.com/GarciaJ128/UII-A9-DisenioUI/assets/143743623/05a65891-96a9-42ce-ab2d-c04112dd7d75)
+![image](https://github.com/GarciaJ128/UII-A9-DisenioUI/assets/143743623/d50c5076-cde2-48ae-8e81-5e822be0d774)
+![image](https://github.com/GarciaJ128/UII-A9-DisenioUI/assets/143743623/8222200e-8945-46cf-9b06-00d870e75380)
+![image](https://github.com/GarciaJ128/UII-A9-DisenioUI/assets/143743623/d9835ffd-765f-42c6-af3b-7eea9a7d1602)
+
 
 
 
